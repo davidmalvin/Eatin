@@ -208,14 +208,11 @@ public class MainActivity<Yelpdata> extends AppCompatActivity {
                 public Call<AutoComplete> getAutocomplete(Map<String, String> Myparams) {
                     return null;
                 }
-            };
-
-        }
+            };        }
 
 
         }
 
 
     }
-
 
